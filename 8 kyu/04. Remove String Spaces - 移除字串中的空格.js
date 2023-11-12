@@ -1,4 +1,5 @@
 // 2023.10.14
+// https://www.codewars.com/kata/57eae20f5500ad98e50002c5
 
 // 我的寫法 replaceAll
 // g 在整個字符串中執行搜索和替換

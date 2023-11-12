@@ -1,4 +1,5 @@
 // 2023.10.13
+// https://www.codewars.com/kata/58649884a1659ed6cb000072
 
 // 我的寫法
 function updateLight(current) {

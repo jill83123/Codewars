@@ -1,4 +1,5 @@
 // 2023.11.11
+// https://www.codewars.com/kata/57e1e61ba396b3727c000251
 
 // 我的寫法
 // g -> global match

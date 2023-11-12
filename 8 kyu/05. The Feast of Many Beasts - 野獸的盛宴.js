@@ -1,4 +1,5 @@
 // 2023.10.14
+// https://www.codewars.com/kata/5aa736a455f906981800360d
 
 // 我的寫法
 function feast(beast, dish) {
